@@ -1,6 +1,7 @@
 ## Multicopter-real-time-3D-simulation
-*A Matlab - Simulink based simulation tool for controlling multicopter in real-time with 3D visual 
-*[Project website](http://thaibinhnguyen.xyz/project-view/he-thong-phan-mem-mo-phong-uav/)
+A Matlab - Simulink based simulation tool for controlling multicopter in real-time with 3D visual 
+
+[Project website](http://thaibinhnguyen.xyz/project-view/he-thong-phan-mem-mo-phong-uav/)
 
 # 1. Overview
 This project provide a collection of useful resources for beginners to understand multicopter control algorithm.
