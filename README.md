@@ -16,3 +16,5 @@ are based on Matlab plot, while controllers are designed in Simulink models.
   * Multicopter aerodynamic model is in "dynamics.m"
   * Controller models are in "multi_model*.slx" with * is 1,2,3..
 # 3. Modify, conduct your own flight test and learn.
+![loiter](https://github.com/thethaibinh/Multicopter-real-time-3D-simulation/blob/master/loiter.png?raw=true)
+![wp](https://github.com/thethaibinh/Multicopter-real-time-3D-simulation/blob/master/wp%20tracking.png?raw=true) 
